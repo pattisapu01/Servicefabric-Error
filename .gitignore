@@ -3,3 +3,24 @@
 ################################################################################
 
 /ClassLibrary1/obj/Debug
+/packages
+/packages
+/packages
+/Stateful1/bin/x64/Debug
+/Stateful1/App.config
+/ServiceFabricTest/obj/x64/Debug
+/ServiceFabricTest/pkg/Debug/Stateful1Pkg/Code/System.Fabric.Strings.dll
+/ServiceFabricTest/pkg/Debug/Stateful1Pkg/Code/System.Fabric.dll
+/ServiceFabricTest/pkg/Debug/Stateful1Pkg/Code/Stateful1.pdb
+/ServiceFabricTest/pkg/Debug/Stateful1Pkg/Code/Stateful1.exe.config
+/ServiceFabricTest/pkg/Debug/Stateful1Pkg/Code/Stateful1.exe
+/ServiceFabricTest/pkg/Debug/Stateful1Pkg/Code/ServiceFabricServiceModel.dll
+/ServiceFabricTest/pkg/Debug/Stateful1Pkg/Code/Microsoft.ServiceFabric.Services.dll
+/ServiceFabricTest/pkg/Debug/Stateful1Pkg/Code/Microsoft.ServiceFabric.Internal.Strings.dll
+/ServiceFabricTest/pkg/Debug/Stateful1Pkg/Code/Microsoft.ServiceFabric.Internal.dll
+/ServiceFabricTest/pkg/Debug/Stateful1Pkg/Code/Microsoft.ServiceFabric.Data.Interfaces.dll
+/ServiceFabricTest/pkg/Debug/Stateful1Pkg/Code/Microsoft.ServiceFabric.Data.dll
+/ServiceFabricTest/pkg/Debug/Stateful1Pkg/Code/ClassLibrary1.pdb
+/ServiceFabricTest/pkg/Debug/Stateful1Pkg/Code/ClassLibrary1.dll
+/ClassLibrary1/bin/Debug/ClassLibrary1.pdb
+/ClassLibrary1/bin/Debug/ClassLibrary1.dll
